@@ -1,16 +1,11 @@
 # Gerenciamento de Projeto
 
-> Descreva aqui a metodologia de trabalho do grupo para atacar o
-> problema.
+> a metodologia utilizada na fase de concepção do projeto foi o design sprint,que é uma vertente do design thinking,que consiste em ,a partir do entendimento
+das personas,desenvolver um projeto que sacie a dor dos usuarios.
 
 ## Divisão de Papéis
+> durante o processo a divisao de tarefas foi igualmente dividida,pois a ideia principal do design sprint é colocar todas as pessoas do projeto em sintonia.Por isso,durante o processo todos os integrantes realizaram as mesmas tarefas porém individualmente
 
-> Apresente a divisão de papéis entre os membros do grupo.
->
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 ## Processo
 
@@ -19,32 +14,20 @@
 > o andamento do projeto, a execução das tarefas e o status de desenvolvimento
 > da solução.
 > 
-> **Links Úteis**:
-> - [Tutorial Trello](https://trello.com/b/8AygzjUA/tutorial-trello)
-> - [Gestão ágil de projetos com o Trello](https://www.youtube.com/watch?v=1o9BOMAKBRE)
-> - [Gerência de projetos - Trello com Scrum](https://www.youtube.com/watch?v=DHLA8X_ujwo)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+>Como citado acima,na fase de concepção do projeto utilizou-se o método de design sprint.
+>Durante o processo foram definidos dias específicos com tarefas especificas a serem executadas:
+>-No primeiro dia buscamos os principais requisitos do projeto e definimos um objetivo a longo prazo,isso por meio de uma matriz de alinhamento CSD(Certezas,Suposições e Dúvidas) e a criação de formulários para entrevistar potenciais usuários;
+>-No segundo dia,a partir dos estudos feitos por meio das entrevistas,criamos o fluxo do usuário na nossa plataforma,alinhamos as principais demandas feitas e analisamos soluções concorrentes por meio de referências de produtos que resolveriam problemas semelhantes;
+>-No terceiro dia buscamos escolher as melhores soluções dentre todas as indicações de cada participante do grupo,satisfazendo nossos requisitos;
+>-No quarto dia construimos um esboço do nosso projeto a partir das ideias do grupo já votadas e criamos um protótipo para a fase de testes;
+>-No quinto dia,chegada a fase de testes,entrevistamos novamente os potenciais usuários afim de ter um feedback sobre o nosso produto e poder fazer possíveis mudanças e ajustes necessários;
 
 ## Ferramentas
 
 As ferramentas empregadas no projeto são:
+>Editor de código: Visual Studio Code
+>Ferramentas de comunicação: Teams
+>Ferramentas de diagramação: Figma
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de diagramação
+>Essas plataformas foram escolhidas pela praticidade e a facilidade de interação entre os participantes do grupo;
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-> Liste quais ferramentas foram empregadas no desenvolvimento do
-> projeto, justificando a escolha delas, sempre que possível.
-> 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [![Slack](images/slack.jpg)](https://slack.com/)
-> - [![Trello](images/trello.png)](https://trello.com/)
-> 
-> - [![Microsof Project](images/project.png)](https://products.office.com/pt-br/project/project-and-portfolio-management-software)
-> - [![Redbooth](images/redbooth.png)](https://redbooth.com/)
