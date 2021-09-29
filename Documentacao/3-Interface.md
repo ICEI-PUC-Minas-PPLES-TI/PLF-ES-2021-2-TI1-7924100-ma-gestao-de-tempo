@@ -9,8 +9,6 @@
 
 ## User Flow
 
-<iframe src="https://miro.com/app/live-embed/o9J_lttM04U=/?moveToViewport=-3339,-1815,9762,4643">.</iframe>
-
 ![Exemplo de UserFlow](images/Screenshot_2.png)
 
 > Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor
