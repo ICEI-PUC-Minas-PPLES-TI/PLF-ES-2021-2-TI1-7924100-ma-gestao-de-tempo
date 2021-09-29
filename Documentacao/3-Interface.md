@@ -1,8 +1,6 @@
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação.md"> Documentação de Especificação</a></span>
-
 > Em uma das etapas do Design sprint, o grupo entrevistou potenciais usuários que
 > nos conduziram a ter em mente um interface que preze pela facilidade e interatividade para
 > atender os diversos perfis abrangidos pela nossa aplicação.
