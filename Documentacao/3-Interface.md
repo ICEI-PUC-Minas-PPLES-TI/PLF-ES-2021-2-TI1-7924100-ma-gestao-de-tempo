@@ -8,7 +8,7 @@
 ## User Flow
 
 > O fluxo de Interação do usuário é representado no diagrama abaixo.
-> Para acessar o wireframe interativo clique <a href="https://www.figma.com/proto/kEwo0XUwztCRyyTST92P4P/Pagina-Principal?node-id=1%3A2&starting-point-node-id=1%3A2" target"_blank">aqui</a>.
+> Para acessar o wireframe interativo clique <a href="https://www.figma.com/proto/kEwo0XUwztCRyyTST92P4P/Pagina-Principal?node-id=1%3A2&starting-point-node-id=1%3A2" target="_blank">aqui</a>.
 
 ![Exemplo de UserFlow](images/Screenshot_2.png)
 
