@@ -30,4 +30,4 @@ Caso ele vá para a parte de gráficos, o usuário irá ver os gráficos de tare
 
 O usuário também poderá voltar para a tela principal ou ter outro tipo de visualização do gráfico clicando em seu botão respectivo.
 
-![Exemplo de UserFlow](images/userflow.jpg)
+![Exemplo de UserFlow](images/Screenshot_2.png)
