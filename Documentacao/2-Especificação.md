@@ -1,3 +1,4 @@
+> Durante a etapa das primeiras entrevistas do Design Sprint, houve a consolidação de quais problemas o grupo deveria focar em solucionar. Com os problemas elencados pelos entrevistados, o grupo os representou na forma de personas e suas histórias, que serão expostas a seguir.
 
 ## Personas
 
