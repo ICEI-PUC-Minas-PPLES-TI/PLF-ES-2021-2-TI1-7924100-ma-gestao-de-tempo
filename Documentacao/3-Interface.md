@@ -3,12 +3,13 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação.md"> Documentação de Especificação</a></span>
 
-> Apresente as principais a interface da plataforma. Discuta como ela
-> foi elaborada de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](2-Especificação.md).
+> Em uma das etapas do Design sprint, o grupo entrevistou potenciais usuários que
+> nos conduziram a ter em mente um interface que preze pela facilidade e interatividade para
+> atender os diversos perfis abrangidos pela nossa aplicação.
 
 ## User Flow
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/o9J_lttM04U=/?moveToViewport=-3339,-1815,9762,4643" frameBorder="0" scrolling="no"allowFullScreen</iframe>
 
 ![Exemplo de UserFlow](images/Screenshot_2.png)
 
