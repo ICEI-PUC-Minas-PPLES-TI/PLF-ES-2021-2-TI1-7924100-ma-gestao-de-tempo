@@ -1,12 +1,12 @@
 # Introdução
 >Como já diz o ditado "Tempo é dinheiro",entendemos que o tempo por ser um recurso esgotável e precioso,exige que seja depositado prioridade em gerencia-lo,
 pois bem empregado nos proporciona menos gasto de enegia física e mental para cumprir nossas tarefas diárias.
->Principalmente se pensado no contexto atual.Ademais,nessa Sociedade da Informação,o excesso de informações é um dos grandes vilões no gerenciamento do tempo.
-Diante da modernização dos meios de comunicação a informatização causou um grande impacto nas pessoas pois tornou o seu acesso mais rapido e agil e,consequentemente,
+>Principalmente se pensado no contexto atual.Ademais,nessa Sociedade da Informação, o excesso de informações é um dos grandes vilões no gerenciamento do tempo.
+Diante da modernização dos meios de comunicação a informatização causou um grande impacto nas pessoas pois tornou o seu acesso mais rapido e agil e, consequentemente,
 a vida muito dinâmica e estressante,gerando a sensação de falta de tempo e a insatisfação pessoal por não conseguir se dedicar plenamente em uma atividade.
 Segundo pesquisa da International Stress Management Association Brasil (2010), mais de 60% dos brasileiros sofrem com a falta de tempo, sendo assim, um sentimento 
-recorrente.Pois além do trabalho,as pessoas possuem outros aspectos de suas vidas,como lazer,familia e cultura.
-Percebendo que gerar o tempo é um tarefa de extrema importância,ter uma ferramenta para auxiliar é essencial.
+recorrente.Pois além do trabalho, as pessoas possuem outros aspectos de suas vidas, como lazer,familia e cultura.
+Percebendo que gerar o tempo é um tarefa de extrema importância, ter uma ferramenta para auxiliar é essencial.
 
 ##  Problema
 >Como citado acima,a falta de gerenciamento do tempo ocasiona uma insatisfação e é um problema geral,que afeta negativamente no cotidiano das pessoas.
@@ -35,5 +35,5 @@ auxiliando em suas tarefas diárias e de longo prazo.
 ## Público-Alvo
 
 > Apesar de nosso projeto ser ideal também para pessoas que já buscam gerenciar seu tempo,nosso foco é proporcionar para os usuários que tem dificuldade em se organizar
-ou que tenha muitas atividades a serem cumpridas,uma plataforma onde terão praticidade e um apoio para concluir suas tarefas.Por isso,nosso público-alvo engloba 
-pessoas de várias idades e atividades,pois o foco está no auxílio do desenvolvimento destes em suas rotinas.
+ou que tenha muitas atividades a serem cumpridas,uma plataforma onde terão praticidade e um apoio para concluir suas tarefas. Por isso,nosso público-alvo engloba 
+pessoas de várias idades e atividades, pois o foco está no auxílio do desenvolvimento destes em suas rotinas.
