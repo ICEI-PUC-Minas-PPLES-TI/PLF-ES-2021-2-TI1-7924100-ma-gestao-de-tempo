@@ -22,9 +22,10 @@
 > - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
 
 
+
 ## Wireframes
 
-![Exemplo de Wireframe](images/wireframe-example.png)
+![wireframe](https://user-images.githubusercontent.com/52513984/135323831-979117ed-f3ad-4935-8057-31f0f71888ef.jpeg)
 
 > São protótipos usados em design de interface para sugerir a
 > estrutura de um site web e seu relacionamentos entre suas
