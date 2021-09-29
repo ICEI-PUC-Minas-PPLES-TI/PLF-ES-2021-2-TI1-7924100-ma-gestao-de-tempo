@@ -13,7 +13,7 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 ## Professores responsáveis
 
 * Rommel Vieira Carneiro
-* Roberto Felipe Dias Ferreira da Rocha
+* Roberto Felipe Dias Ferreira Da Rocha
 
 ## Instruções de utilização
 
