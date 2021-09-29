@@ -62,7 +62,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O sistema não deve ser complexo                       |
-|02| O sistema não deverá exceder 1gb de ram               |
+|02| A aplicação não deve consumir mais de 1Gb de RAM      |
 
 
 
