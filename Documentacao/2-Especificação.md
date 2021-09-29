@@ -1,34 +1,24 @@
-# Especificações Do Projeto
-
-<span style="color:red">Pré-requisitos: <a href="1-Contexto.md"> Documentação de Contexto</a></span>
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em
-se desenvolver profissionalmente através de um mestrado fora do país,
-pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está
-buscando uma agência que o ajude a encontrar universidades na Europa
-que aceitem alunos estrangeiros.
+
+>Carla tem 41 anos,é mãe de 2 filhos.Formada em História e já atuando na área como professora,decidiu começar um mestrado pra incrementar na sua carreira.
+Apesar de muito organizada,a vida multitarefada a deixa extremamente ocupada e ser responsável acaba sendo o seu forte pois é necessário dividir sua vida entre
+ sua carreira e o cuidado com os filhos.
+
+>José tem 26 anos.É estudante de Educação física e já trabalha como personal trainer em uma academia de sua cidade.Sua maior dificuldade é dividir o tempo 
+entre seu trabalho e estudos,já que é um pouco desorganizado e acaba priorizando apenas as questões do trabalho.Tem uma grande facilidade em se comunicar e por 
+isso gosta de viajar para descobrir novos lugares e pessoas.
 
 
-> Enumere e detalhe as personas da sua solução. Para
-> tanto, baseie-se tanto nos documentos disponibilizados na disciplina
-> e/ou nos seguintes links:
->
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-> Lembre-se que você deve ser enumerar e descrever precisamente e
-> personalizada todos os clientes ideais que sua solução almeja.
+>Felipe tem 30 anos,é dono de uma serralheria onde trabalha com apenas mais um funcionário.É muito responsável,já que desde novo aprendeu a gerenciar seu próprio 
+negócio e vem desenvolvendo habilidades empreendedoras.Apesar de  apenas trabalhar na serralheria,não tem muito tempo livre,pois sempre tem muitos pedidos
+ para entregar.
+
+>Geovana tem 18 anos,apenas estuda e pretende passar em Direito em uma universidade federal.É bem organizada porém um pouco irresponsável e tende a procrastinar 
+muito em suas atividades.Gosta de desenhar e acaba se perdendo em suas tarefas,apesar de ter muitas coisas para fazer e estar sempre ocupada com os estudos.
+
+
 
 ## Histórias de Usuários
 
@@ -36,56 +26,38 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|José                |Visualizar seus treinos marcados com seus alunos  |  ter uma visao geral para não se perder|
+|Carla               |Adicionar tarefas a sua rotina com facilidade | para que nao perca muito tempo escrevendo as tarefas |
+|Felipe              |Receber uma notificação das entregas que tem pra fazer|não perder horários marcados com os clientes|
+|Geovana             |Adicionar os dias de todas suas provas no calendário|não perder nenhuma prova e tirar notas baixas |
 
-> Apresente aqui as histórias de usuário que são relevantes para o
-> projeto de sua solução. As Histórias de Usuário consistem em uma
-> ferramenta poderosa para a compreensão e elicitação dos requisitos
-> funcionais e não funcionais da sua aplicação. Se possível, agrupe as
-> histórias de usuário por contexto, para facilitar consultas
-> recorrentes à essa parte do documento.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
+
 
 ## Requisitos
+## Requisitos funcionais
 
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
+|ID     | Descrição                         |Prioridade |
+|-------|-----------------------------------|-----------|
+|RF01   |Adicionar/Excluir/Modificar tarefas|Alta       |
+|RF02   |Notificar tarefas recorrentes      |Alta       |
+|RF03   |Mostrar todas as tarefas em uma data|Média     |
+|RF04   |Mostrar um gráfico de tarefas feitas|Alta      |
+|RF05   |Mostrar agenda de compromissos      |Alta      |
+|RF06   |Escrever em bloco de rascunhos      |Média     |
 
-### Requisitos Funcionais
+## Requisitos não funcionais
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|ID     | Descrição                          |Prioridade|
+|-------|------------------------------------|----------|
+|RNF01  |Ferramentas Intuitivas              |Alta      |
+|RNF02  |Praticidade de uso                  |Alta      |
+|RNF03  |Proporcionar segurança ao usuário   |Alta      |
+|RNF04  |Sistema com layout responsivo       |Média     |
 
 
-### Requisitos não Funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
 
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais
->   (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais
->   (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+
 
 ## Restrições
 
@@ -93,14 +65,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O sistema não deve ser complexo                       |
+|02| O sistema não deverá exceder 1gb de ram               |
 
 
-> Enumere as restrições à sua solução. Lembre-se de que as restrições
-> geralmente limitam a solução candidata.
-> 
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao
+
+
 
