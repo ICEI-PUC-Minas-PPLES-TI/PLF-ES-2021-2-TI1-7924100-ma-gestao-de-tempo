@@ -22,10 +22,7 @@
 > Inclua um diagrama da solução e descreva os módulos e as tecnologias
 > que fazem parte da solução. Discorra sobre o diagrama.
 
-A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
-que o usuário entra na plataforma, ele é apresentado à tela inicial
-(Tela 1) onde ele é confrontado com as opões de editar seu perfil ou
-então visualizar sua galeria.
+O usuário irá iniciar seu teste pela página inicial (Tela 1) onde ele irá possuir as opções de prosseguir para tela onde ele irá poder ver os gráficos e ir para a parte de agenda que irá substituir o menu (Tela 5).
 
 Caso ele opte por seguir pelo primeiro caminho (Editar Perfil), ele é
 redirecionado para a tela de edição de perfil (Tela 2), onde pode
