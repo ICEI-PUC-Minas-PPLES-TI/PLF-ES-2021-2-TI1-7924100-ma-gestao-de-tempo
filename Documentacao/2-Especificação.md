@@ -4,20 +4,20 @@ Durante a etapa das primeiras entrevistas do Design Sprint, houve a consolidaç�
 
 ## Personas
 <!--Imagens Restiradas do website thispersondoesnotexist.com-->
-![carla](https://user-images.githubusercontent.com/52513984/135507656-e1e1425d-0f22-4dcd-b218-39edff3b8998.jpg)
+![carla](https://user-images.githubusercontent.com/52513984/135507656-e1e1425d-0f22-4dcd-b218-39edff3b8998.jpg =200px)
 Carla tem 41 anos, é mãe de 2 filhos. Formada em História e já atuando na área como professora, decidiu começar um mestrado para incrementar na sua carreira.
 Apesar de muito organizada, a vida multitarefada a deixa extremamente ocupada e ser responsável acaba sendo o seu forte pois é necessário dividir sua vida entre
 sua carreira e o cuidado com os filhos.
 
-![José](https://user-images.githubusercontent.com/52513984/135507793-eeca3134-f343-4554-9063-75758808bdc1.jpg)
+![José](https://user-images.githubusercontent.com/52513984/135507793-eeca3134-f343-4554-9063-75758808bdc1.jpg =200px)
 José tem 26 anos. É estudante de Educação física e já trabalha como personal trainer em uma academia de sua cidade. Sua maior dificuldade é dividir o tempo entre seu trabalho e estudos, já que é um pouco desorganizado e acaba priorizando apenas as questões do trabalho. Tem uma grande facilidade em se comunicar e por isso gosta de viajar para descobrir novos lugares e pessoas.
 
-![Felipe](https://user-images.githubusercontent.com/52513984/135507836-b7a6fd6a-fc0b-4024-948d-7b140117c3d9.jpg)
+![Felipe](https://user-images.githubusercontent.com/52513984/135507836-b7a6fd6a-fc0b-4024-948d-7b140117c3d9.jpg =200px)
 Felipe tem 30 anos, é dono de uma serralheria onde trabalha com apenas mais um funcionário. É muito responsável, já que desde novo aprendeu a gerenciar seu próprio 
 negócio e vem desenvolvendo habilidades empreendedoras. Apesar de  apenas trabalhar na serralheria, não tem muito tempo livre, pois sempre tem muitos pedidos
 para entregar.
 
-![Geovana](https://user-images.githubusercontent.com/52513984/135507858-f96b352d-af49-401e-80ee-00044aeaa363.jpg)
+![Geovana](https://user-images.githubusercontent.com/52513984/135507858-f96b352d-af49-401e-80ee-00044aeaa363.jpg =200px)
 Geovana tem 18 anos, apenas estuda e pretende passar em Direito em uma universidade federal. É bem organizada porém um pouco irresponsável e tende a procrastinar muito em suas atividades. Gosta de desenhar e acaba se perdendo em suas tarefas, apesar de ter muitas coisas para fazer e estar sempre ocupada com os estudos.
 
 
