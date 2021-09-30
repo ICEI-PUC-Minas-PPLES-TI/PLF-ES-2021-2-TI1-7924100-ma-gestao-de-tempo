@@ -37,7 +37,7 @@ etiquetas:
 
 ## Hospedagem
 
-> O grupo pretende utilizar o [GitHub Pages](https://pages.github.com/) para hospedar a plataforma quando estiver pronta.
+> O grupo pretende utilizar o [GitHub Pages](https://pages.github.com/) para hospedar a aplicação quando esta estiver em etágios mais avaçados de Desenvolvimento.
 >
 > <!--**Links Úteis**:
 >
