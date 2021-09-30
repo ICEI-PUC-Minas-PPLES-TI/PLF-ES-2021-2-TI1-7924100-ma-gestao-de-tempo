@@ -19,7 +19,7 @@ Para resolvermos essa problemática temos como objetivo geral um software que so
 auxiliando em suas tarefas diárias e de longo prazo.
 Temos como objetivos específicos:
 
- - Criar,através de uma interface simples,uma interação intuitiva com o nosso usuário,para que seja rápida e fácil a sua utilização;
+ - Criar, através de uma interface simples,uma interação intuitiva com o nosso usuário,para que seja rápida e fácil a sua utilização;
  - Proporcionar segurança e privacidade,para que sinta confiança ao  utilizar nosso software;
  - Prevenir a procrastinação de tarefas motivando a utilização constante da nossa plataforma;
 
