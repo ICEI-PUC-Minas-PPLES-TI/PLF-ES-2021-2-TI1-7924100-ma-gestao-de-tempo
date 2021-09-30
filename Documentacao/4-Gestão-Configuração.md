@@ -1,9 +1,9 @@
 # Gestão de Configuração
 
-> /*Nesta parte do documento, você deve apresentar como foi realizada a
+> <!--Nesta parte do documento, você deve apresentar como foi realizada a
 > gestão de configuração do projeto. Isto é, como a ferramenta de
 > controle de versão foi configurada, bem como a hospedagem da
-> plataforma.*/
+> plataforma.-->
 
 ## Controle de Versão
 
@@ -26,10 +26,10 @@ etiquetas:
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
 > Como o projeto ainda está na fase de concepção, apenas preparamos o ambiente inicializando o git e clonando a branch `master` para todos os integrantes.
-> /*Discuta como a configuração do projeto foi feita na ferramenta de
+> <!--Discuta como a configuração do projeto foi feita na ferramenta de
 > versionamento escolhida. Exponha como a gerência de tags, merges,
 > commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
+> realizada.-->
 >
 > **Links Úteis**:
 > - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
@@ -39,10 +39,10 @@ etiquetas:
 
 > O grupo pretende utilizar o [GitHub Pages](https://pages.github.com/) para hospedar a plataforma quando estiver pronta.
 >
-> /***Links Úteis**:
+> <!--**Links Úteis**:
 >
 > - [Getting Started with Heroku](https://devcenter.heroku.com/start)
 > - [Crie seu Site com o
 >   HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
 > - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)*/
+> - [GitHub Pages](https://pages.github.com/)-->
