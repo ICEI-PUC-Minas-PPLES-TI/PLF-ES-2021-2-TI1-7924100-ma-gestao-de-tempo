@@ -11,7 +11,7 @@ a vida muito dinâmica e estressante, gerando a sensação de falta de tempo e i
 
 ## Problema
 
-Uma pesquisa feita pela International Stress Management Association Brasil em 2010 revela que mais de 60% dos brasileiros sofrem com a falta de tempo, sendo a insatisfação um sentimento recorrente. Além do trabalho, as pessoas possuem outros aspectos em suas vidas, como lazer, família e cultura. Percebendo que gerenciar o tempo é uma tarefa de extrema importância, ter uma ferramenta de auxílio para essa tarefa é essencial.
+Uma pesquisa feita pela International Stress Management Association Brasil em 2010 revela que mais de 60% dos brasileiros sofrem com a falta de tempo, sendo a insatisfação um sentimento recorrente. Além do trabalho, as pessoas possuem outros aspectos em suas vidas, como lazer, família e cultura. Percebendo que gerenciar o tempo é uma tarefa de extrema importância, ter uma ferramenta de auxílio é essencial.
 
 ## Objetivos
 
