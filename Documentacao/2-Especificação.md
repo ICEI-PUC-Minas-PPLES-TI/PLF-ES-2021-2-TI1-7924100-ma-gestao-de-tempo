@@ -23,10 +23,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|José                |Visualizar seus treinos marcados com seus alunos  |  ter uma visao geral para não se perder|
-|Carla               |Adicionar tarefas a sua rotina com facilidade | para que nao perca muito tempo escrevendo as tarefas |
-|Felipe              |Receber uma notificação das entregas que tem pra fazer|não perder horários marcados com os clientes|
-|Geovana             |Adicionar os dias de todas suas provas no calendário|não perder nenhuma prova e tirar notas baixas |
+|José                |Visualizar seus treinos marcados com seus alunos  |  Ter uma visao geral para não se perder|
+|Carla               |Adicionar tarefas a sua rotina com facilidade | Para que nao perca muito tempo escrevendo as tarefas |
+|Felipe              |Receber uma notificação das entregas que tem pra fazer|Não perder horários marcados com os clientes|
+|Geovana             |Adicionar os dias de todas suas provas no calendário|Não perder nenhuma prova e tirar notas baixas |
 
 
 
