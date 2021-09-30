@@ -37,7 +37,7 @@ Apesar de nosso projeto ser ideal também para pessoas que já buscam gerenciar 
 
 Durante a etapa das primeiras entrevistas do Design Sprint, houve a consolidação de quais problemas o grupo deveria focar em solucionar. Com os problemas elencados pelos entrevistados, o grupo os representou na forma de personas e suas histórias, que serão expostas a seguir.
 
-<!-->Como já diz o ditado "Tempo é dinheiro",entendemos que o tempo por ser um recurso esgotável e precioso,exige que seja depositado prioridade em gerencia-lo,
+<!--Como já diz o ditado "Tempo é dinheiro",entendemos que o tempo por ser um recurso esgotável e precioso,exige que seja depositado prioridade em gerencia-lo,
 pois bem empregado nos proporciona menos gasto de enegia física e mental para cumprir nossas tarefas diárias.
 >Principalmente se pensado no contexto atual.Ademais,nessa Sociedade da Informação, o excesso de informações é um dos grandes vilões no gerenciamento do tempo.
 Diante da modernização dos meios de comunicação a informatização causou um grande impacto nas pessoas pois tornou o seu acesso mais rapido e agil e, consequentemente,
