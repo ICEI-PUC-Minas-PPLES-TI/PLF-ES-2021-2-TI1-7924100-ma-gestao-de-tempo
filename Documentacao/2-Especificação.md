@@ -5,7 +5,7 @@ Durante a etapa das primeiras entrevistas do Design Sprint, houve a consolidaç�
 ## Personas
 <!--Imagens Restiradas do website thispersondoesnotexist.com-->
 
-<p><img align="left" src="https://user-images.githubusercontent.com/52513984/135507656-e1e1425d-0f22-4dcd-b218-39edff3b8998.jpg" alt="carla" width="200"/><sub>Carla</sub> Carla tem 41 anos,  é mãe de 2 filhos. Formada em História e já atuando na área como professora, decidiu começar um mestrado para incrementar na sua carreira.
+<p><img align="left" src="https://user-images.githubusercontent.com/52513984/135507656-e1e1425d-0f22-4dcd-b218-39edff3b8998.jpg" alt="carla" width="200"/> Carla tem 41 anos,  é mãe de 2 filhos. Formada em História e já atuando na área como professora, decidiu começar um mestrado para incrementar na sua carreira.
 Apesar de muito organizada, a vida multitarefada a deixa extremamente ocupada e ser responsável acaba sendo o seu forte pois é necessário dividir sua vida entre
 sua carreira e o cuidado com os filhos.</p>
 <br><br><br><br>
