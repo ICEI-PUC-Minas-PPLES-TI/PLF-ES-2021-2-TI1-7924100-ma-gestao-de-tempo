@@ -1,6 +1,5 @@
 # Referências
 
-Artigos online:
 
 Quando fomos procurar referências para o nosso trabalho,tínhaos em mente que TimeSpend seria um site para todos,por isso era necessário informações sobre dicas e estudos do que era bom pras pessoas.
 Nesses sites encontramos o significado de uma gestão de tempo e como ela atinge significamente na rotina das pessoas.Foi indagado que a gestão de tempo ajuda no estresse,na produtividade e aumenta o tempo de lazer.
