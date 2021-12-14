@@ -8,5 +8,9 @@ Foram detalhados modelos para melhorar a rotina que foram incluídos nos estudos
 
 >-asana.18 dicas, estratégias e soluções rápidas de gestão do tempo para fazer o seu melhor trabalho. asana, 29 de março de 2021. Disponível em: 
 >(https://asana.com/pt/resources/time-management-tips?gclid=EAIaIQobChMI6a31h_Xj9AIVjxTUAR0B1QXPEAAYAiAAEgJFBvD_BwE&gclsrc=aw.ds). Acesso em: (09/09).
+
+
 >-VAGAS. Título:Gerenciamento de tempo: como ele influencia no seu desempenho?.VAGAS, 2021. Disponível em: (https://www.vagas.com.br/profissoes/gerenciamento-tempo/). Acesso em:  >(09/09).
+
+
 >-UCS. Título:Gestão do tempo: o que é e 10 táticas para ser mais eficiente.UCS-Universidade de Caxias do Sul,2019. Disponível em: (https://ead.ucs.br/blog/gestao-tempo). Acesso >em: (09/09).
