@@ -20,7 +20,7 @@
 
 A tela de login será como foi descrito por essa wirefram, onde sua parte principal em cima é onde estará uma de suas funcionalidades/requisitos que é a filtragem por dia das tarefas, além disso será mostrado os dias da semana atual, sendo esse a primeira parte do wireframe. Mais a direita vemos que irá possuir duas imagens, a de perfil e a de configurações que no qual irá retornar para a página de configurações.<br>
 Falando um pouco mais sobre o conteúdo em si da página iremos possuir a barra de hábitos que irá mostrar como nome próprio nome já diz, os hábtios diários do usuário, sendo esse uma funcionalidade/requisito já imposta e exemplificada. Essa parte principal irá conter todo o conteúdo referente as tarefas, onde nesse 'main' será mostrado todas as tarefas do usuário, sendo que ela também pode ser filtrada na parte de cima.<br>
-Mais a direita temos um
+Mais a direita temos um menu, onde ele irá direcionar o usuário ao bloco de notas e agenda do usuário, sendo que como se trata de um menu em dois, caso seja mudado ao clicar em uma imagem, ele irá retornar botões para que seja encaminhado para outras telas, como a tela do gráfico, a tela do menu, etc...<br>
 
 
 
