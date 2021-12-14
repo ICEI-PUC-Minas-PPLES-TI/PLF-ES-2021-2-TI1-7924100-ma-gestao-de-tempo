@@ -25,8 +25,7 @@ Temos como objetivos específicos:
 
 ## Justificativa
 
-A boa gestão do tempo é uma necessidade geral. Pensando a respeito desta grande problemática é que foi decidida a criação deste software.
- O projeto em si tem a função de facilitar a vida dos usuários que sofrem com a má gestão de tempo.
+A má gestão do tempo é algo que pode impactar de forma negativa facilmente na vida das pessoas. Por exemplo, no caso de um estudante onde ele não administra seu tempo corretamente, acaba que nunca ele terá tempo para nada, impactando de certa forma no seu estudo. No caso de uma pessoa que trabalha, essa pessoa pode se encarar nessa mesma problemática, onde pós ou pré seu trabalho acaba ficando sem tempo algum para outras tarefas. Por esse grande problema na vida das pesssoas que decidimos criar 'nome_app' para facilitar sua rotina, para que sempre sobre tempo para seus afazeres. 
 
 
 ## Público-Alvo
