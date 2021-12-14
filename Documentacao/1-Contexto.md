@@ -30,7 +30,7 @@ A má gestão do tempo é algo que pode impactar de forma negativa facilmente na
 
 ## Público-Alvo
 
-Apesar de nosso projeto ser ideal também para pessoas que já buscam gerenciar seu tempo, nosso foco é proporcionar aos usuários que têm dificuldade em se organizar ou que tenham muitas atividades a serem cumpridas uma plataforma onde terão praticidade e um apoio para concluir suas tarefas. Por isso, nosso público-alvo engloba pessoas de várias idades e atividades, pois o foco está no auxílio do desenvolvimento destes em suas rotinas.
+Nós desenvolvemos um site que auxilie diferentes tipos de usuários.Quando falamos sobre gerenciamento de tempo,rotina e organização muitas pessoas são incluídas.Pensando nisso e com nossas pesquisas e testes com potenciais usuários, os resultados foram esclarecedores.Independente de idade ou da sua profissão,se você estuda ou tem várias ocupações durante o dia,nosso site irá te auxiliar.Criamos esse projeto com o intuíto de ajudar a todos que buscam este tipo de auxílio em suas rotinas,seja ela muito cheia,como por exemplo uma mãe de família que cuida dos filhos e trabalhe ou um estudante de vestibular que necessita de uma rotina regrada.TimeSpend é a solução para quem a procura,nosso objetivo é ser prático para que assim seja para todos.
 
 ## Especificação
 
