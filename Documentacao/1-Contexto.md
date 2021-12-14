@@ -30,7 +30,7 @@ A má gestão do tempo é algo que pode impactar de forma negativa facilmente na
 
 ## Público-Alvo
 
-Nós desenvolvemos um site que auxilie diferentes tipos de usuários.Quando falamos sobre gerenciamento de tempo,rotina e organização muitas pessoas são incluídas.Pensando nisso e com nossas pesquisas e testes com potenciais usuários, os resultados foram esclarecedores.Independente de idade ou da sua profissão,se você estuda ou tem várias ocupações durante o dia,nosso site irá te auxiliar.Criamos esse projeto com o intuíto de ajudar a todos que buscam este tipo de auxílio em suas rotinas,seja ela muito cheia,como por exemplo uma mãe de família que cuida dos filhos e trabalhe ou um estudante de vestibular que necessita de uma rotina regrada.TimeSpend é a solução para quem a procura,nosso objetivo é ser prático para que assim seja para todos.
+Nós desenvolvemos um site que auxilie diferentes tipos de usuários.Quando falamos sobre gerenciamento de tempo,rotina e organização muitas pessoas são incluídas.Pensando nisso e com nossas pesquisas e testes com potenciais usuários, os resultados foram esclarecedores.Independente de idade ou da sua profissão,se você estuda ou tem várias ocupações durante o dia,nosso site irá te auxiliar.Criamos esse projeto com o intuíto de ajudar pessoas,individualmente,que buscam este tipo de auxílio em suas rotinas,seja ela muito cheia,como por exemplo uma mãe de família que cuida dos filhos e trabalhe ou um estudante de vestibular que necessita de uma rotina regrada.TimeSpend é a solução para quem a procura,nosso objetivo é ser prático para que assim seja para todos.
 
 ## Especificação
 
