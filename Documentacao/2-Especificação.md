@@ -27,10 +27,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|José                |Visualizar seus treinos marcados com seus alunos  |  Ter uma visao geral para não se perder|
-|Carla               |Adicionar tarefas a sua rotina com facilidade | Para que nao perca muito tempo escrevendo as tarefas |
-|Felipe              |Receber uma notificação das entregas que tem pra fazer|Não perder horários marcados com os clientes|
-|Geovana             |Adicionar os dias de todas suas provas no calendário|Não perder nenhuma prova e tirar notas baixas |
+|José                |José precisa que seja fácil de adicionar e remover tarefas,ou seja,prático e rápido  | Para que não perca muito tempo quando for marcar os horários de treinos com seus alunos.|
+|Carla               |Carla precisa que as tarefas sejam bem distribuídas e organizadas,fáceis de diferenciar. | Para que não se confunda quando for olhar as tarefas a serem concluídas e se são sobre trabalho,questões de casa ou de estudo.Agilizando seu dia. |
+|Felipe              |Felipe precisa de auxílio para lembrar sobre todas as suas entregas,com alarmes e descrição.|Os alarmes são essenciais para que não perca horário de suas entregas e todas as informações necessárias estão já na descrição.|
+|Geovana             |Geovana precisa que todas as suas atividades sejam organizadas e detalhadas já que necessita criar e cumprir seus próprios horários.|Para que não procrastine sem saber qual atividade vem a seguir e em qual horário é necessário fazê-la. |
 
 
 
@@ -39,21 +39,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |ID     | Descrição                         |Prioridade |
 |-------|-----------------------------------|-----------|
-|RF01   |Adicionar/Excluir/Modificar tarefas |Alta      |
-|RF02   |Notificar tarefas recorrentes       |Alta      |
+|RF01   |Adicionar/Excluir/Modificar tarefas|Alta       |
+|RF02   |Notificar tarefas recorrentes      |Alta       |
 |RF03   |Mostrar todas as tarefas em uma data|Média     |
 |RF04   |Mostrar um gráfico de tarefas feitas|Alta      |
 |RF05   |Mostrar agenda de compromissos      |Alta      |
 |RF06   |Escrever em bloco de rascunhos      |Média     |
-|RF07   |Mostrar barra de hábitos            |Média     |
-
-RF01: O sistema irá possuir a funcionalidade de adicionar, excluir e modificar as suas tarefas, ou seja, a partir de um ponto no layout será possivél fazer esses requisitos pelo sistema. Um exemplo disso é caso o usuário queira adicionar a tarefa de jogar futebol, ele irá escolher o horário do compromisso, uma descrição e uma data para tal.<br>
-RF02: O sistema irá possuir a funcionalidade de notificar as tarefas do dia em que ela irá acontecer, isso ao cadastrar a tarefa, o usuário irá escolher a opção de ser notificado ou não sobre a 'x' tarefa.<br>
-RF03: O sistema irá possuir a funcionalidade de mostrar todas as tarefas do usuário em um dia 'x'. Ou seja, caso o usuário possua ao menos uma tarefa nesse dia ela irá ser mostrada de acordo com esse filtro.<br>
-RF04: O sistema irá possuir a funcionalidade de mostrar ao usuário um gráfico de tarefas concluídas, esse gráfico é como um sistema de recompensa, já que ele poderá ver seu progresso na semana, mês e até em um ano específico. <br>
-RF05: O sistema irá possuir a funcionalidade de mostrar os compromissos ao clicar no dia pelo calendário que é mostrado em todas as páginas do sistema, junto ao menu de opções de tela.<br>
-RF06: O sistema irá possuir a funcionalidade de escrever em um bloco de rascunhos e esses dados serão salvos temporariamente, já que ele será usado para anotar algumas informações que não devem ser perdidas, ou apenas coisas para não se esquecer, por exemplo, uma lista de compras no mercado.<br>
-RF07: O sistema irá possuir uma barra de hábitos onde o usuário irá colocar seus hábitos e dar 'check' neles para que seja marcado como concluído seu hábito diário, sendo que ele será resetado ao final de todo dia. <br>
 
 ## Requisitos não funcionais
 
