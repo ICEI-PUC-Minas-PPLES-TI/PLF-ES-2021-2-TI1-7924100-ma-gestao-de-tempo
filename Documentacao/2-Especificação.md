@@ -55,8 +55,10 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RNF03  |Proporcionar segurança ao usuário   |Alta      |
 |RNF04  |Sistema com layout responsivo       |Média     |
 
-
-
+RNF01: O sistema tem como objetivo ser simples, portantos todas ferramentas descritas nos requisitos funcionais devem ser intuitivas ao usuário, por exemplo, no caso de escrever no bloco de rascunhos, o usuário deve entender que ali é apenas um lugar para que possa fazer anotações rápidas que não possa perder.
+RNF02: Como dito anteriormente, o sistema deve ser simples, para isso sua praticidade deve ser levada em conta e o sistema deve ser feito em volta disso. Sendo que normalmente, um sistema prático chama mais atenção das pessoas, já que é dificuldade em fazer algo simples e prático é grande.
+RNF03: Como o sistema lida com informações privadas do usuário, sua segurança se torna um ponto com prioridade letal já que seus dados em nenhuma hipótese podem ser divulgados sem seu consentimento.
+RNF04: Sendo sua prioridade média, o sistema não tem em foco sem 100% responsivo, mas como um requisito, a experiência do usuário não irá ser prejudicada com esse aspecto. Sendo o que mais impacta é a sua facilidade de uso.
 
 
 
