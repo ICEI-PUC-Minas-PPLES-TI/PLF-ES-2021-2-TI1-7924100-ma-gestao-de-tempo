@@ -39,12 +39,21 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |ID     | Descrição                         |Prioridade |
 |-------|-----------------------------------|-----------|
-|RF01   |Adicionar/Excluir/Modificar tarefas|Alta       |
-|RF02   |Notificar tarefas recorrentes      |Alta       |
+|RF01   |Adicionar/Excluir/Modificar tarefas |Alta      |
+|RF02   |Notificar tarefas recorrentes       |Alta      |
 |RF03   |Mostrar todas as tarefas em uma data|Média     |
 |RF04   |Mostrar um gráfico de tarefas feitas|Alta      |
 |RF05   |Mostrar agenda de compromissos      |Alta      |
 |RF06   |Escrever em bloco de rascunhos      |Média     |
+|RF07   |Mostrar barra de hábitos            |Média     |
+
+RF01: O sistema irá possuir a funcionalidade de adicionar, excluir e modificar as suas tarefas, ou seja, a partir de um ponto no layout será possivél fazer esses requisitos pelo sistema. Um exemplo disso é caso o usuário queira adicionar a tarefa de jogar futebol, ele irá escolher o horário do compromisso, uma descrição e uma data para tal.<br>
+RF02: O sistema irá possuir a funcionalidade de notificar as tarefas do dia em que ela irá acontecer, isso ao cadastrar a tarefa, o usuário irá escolher a opção de ser notificado ou não sobre a 'x' tarefa.<br>
+RF03: O sistema irá possuir a funcionalidade de mostrar todas as tarefas do usuário em um dia 'x'. Ou seja, caso o usuário possua ao menos uma tarefa nesse dia ela irá ser mostrada de acordo com esse filtro.<br>
+RF04: O sistema irá possuir a funcionalidade de mostrar ao usuário um gráfico de tarefas concluídas, esse gráfico é como um sistema de recompensa, já que ele poderá ver seu progresso na semana, mês e até em um ano específico. <br>
+RF05: O sistema irá possuir a funcionalidade de mostrar os compromissos ao clicar no dia pelo calendário que é mostrado em todas as páginas do sistema, junto ao menu de opções de tela.<br>
+RF06: O sistema irá possuir a funcionalidade de escrever em um bloco de rascunhos e esses dados serão salvos temporariamente, já que ele será usado para anotar algumas informações que não devem ser perdidas, ou apenas coisas para não se esquecer, por exemplo, uma lista de compras no mercado.<br>
+RF07: O sistema irá possuir uma barra de hábitos onde o usuário irá colocar seus hábitos e dar 'check' neles para que seja marcado como concluído seu hábito diário, sendo que ele será resetado ao final de todo dia. <br>
 
 ## Requisitos não funcionais
 
