@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-control" content="no-cache">
+    <meta http-equiv="Expires" content="-1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm"
+	 crossorigin="anonymous">
+    <link rel="stylesheet" href="styles/dashboard.css">
+    <!--<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+        integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">-->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.1/font/bootstrap-icons.css">
+    <link rel="icon" href="../resources/TS-sm-logo.svg">
+    <title>Dashboard</title>
+</head>
+
+<body>
+    <div class="background">
+        <div id="mainContent" class="dashboard_flex">
+            <header class="dashboard_cabecalho">
+                <div class="semana">
+                    <h4>Semana</h4>
+                    <h6 id="intervaloSemana"></h6>
+                </div>
+                <div class="dias_semana">
+                    <ul id="listaDiasSemana">
+                        <li>D</li>
+                        <li>S</li>
+                        <li>T</li>
+                        <li>Q</li>
+                        <li>Q</li>
+                        <li>S</li>
+                        <li>S</li>
+                    </ul>
+                </div>
+            </header>
+            <div class="conteudo_dashboard">
+                 <!-- Inicio Barra Hábito -->
+
+                 <div class="barra_habitos">
+                    
+                    <!-- Primeiro -->
+
+                    <div class="habito r1 habito_ler">
+                        
+                        <div id="circulo_barra_habito_1">
+
+                            <div class="circulo_barra" onclick="atualiza_circulo_barra_habito('icon_check_1', 0)">
+                                <img src="../resources/icon_check.svg" alt="icon_check" id="icon_check_1">
+                            </div>
+
+                        </div>
+
+                        <h5> 
+                            <label id="barra_habito_1" class="barra_habito_elementos"
+                            
+                            onclick="editar_habito('barra_habito_1',0)">
+
+                            </label>
+                        </h5>
+
+                    </div>
+
+                    <!-- Segundo -->
+
+                    <div class="habito r1 habito_agua">
+
+                        <div id="circulo_barra_habito_2" >
+
+                            <div class="circulo_barra" onclick="atualiza_circulo_barra_habito('icon_check_2', 1)">
+                                <img src="../resources/icon_check.svg" alt="icon_check" id="icon_check_2">
+                            </div>
+
+                        </div>
+
+                        <h5>
+                            <label id="barra_habito_2" class="barra_habito_elementos"
+                            
+                            onclick="editar_habito('barra_habito_2',1)">
+
+                        </h5>
+
+                    </div>
+
+                    <!-- Terceiro -->
+
+                    <div class="habito r1 habito_estudar">
+                        
+                        <div id="circulo_barra_habito_3">
+
+                            <div class="circulo_barra" onclick="atualiza_circulo_barra_habito('icon_check_3', 2)">
+                                <img src="../resources/icon_check.svg" alt="icon_check" id="icon_check_3">
+                            </div>
+
+                        </div>
+
+                        <h5>
+                            <label id="barra_habito_3" class="barra_habito_elementos"
+                            
+                            onclick="editar_habito('barra_habito_3',2)">
+
+                            </h5>
+
+                    </div>
+
+                    <!-- Quarto -->
+
+                    <div class="habito r2 habito_exercicios">
+
+                        <div id="circulo_barra_habito_4">
+
+                            <div class="circulo_barra" onclick="atualiza_circulo_barra_habito('icon_check_4', 3)">
+                                <img src="../resources/icon_check.svg" alt="icon_check" id="icon_check_4">
+                            </div>
+
+                        </div>
+
+                        <h5>
+                            <label id="barra_habito_4" class="barra_habito_elementos"
+                            
+                            onclick="editar_habito('barra_habito_4',3)">
+
+                        </h5>
+
+                    </div>
+
+                    <!-- Quinto -->
+                    <div class="habito r2 habito_meditar">
+
+                        <div id="circulo_barra_habito_5">
+
+                            <div class="circulo_barra" onclick="atualiza_circulo_barra_habito('icon_check_5', 4)">
+                                <img src="../resources/icon_check.svg" alt="icon_check" id="icon_check_5">
+                            </div>
+
+                        </div>
+
+                        <h5>
+                            <label id="barra_habito_5" class="barra_habito_elementos"
+                            onclick="editar_habito('barra_habito_5',4)">
+
+                        </h5>
+
+                    </div>
+                    <!-- Sexto -->
+                    <div class="habito r2 habito_jogar">
+
+                        <div id="circulo_barra_habito_6">
+
+                            <div class="circulo_barra" onclick="atualiza_circulo_barra_habito('icon_check_6', 5)">
+                                <img src="../resources/icon_check.svg" alt="icon_check" id="icon_check_6">
+                            </div>
+
+                        </div>
+
+                        <h5>
+                            <label id="barra_habito_6" class="barra_habito_elementos"
+                            onclick="editar_habito('barra_habito_6',5)">
+
+                        </h5>
+
+                    </div>
+
+                    <!-- ADD -->
+
+                   <!--<div class="habito r2 habito_adc">
+                        
+                        <div class="adc">
+
+                            <i class="bi bi-plus-circle"
+                            data-toggle="modal" data-target="#modal_nova_tarefa"></i>
+
+                        </div>
+
+                        <h5>Adc.</h5>
+
+                    </div>-->
+
+                </div>
+
+<!-- Modal -->
+    <div id="modal_nova_tarefa" class="modal fade" role="dialog">
+
+        <div class="modal-dialog">
+
+            <!-- Corpo do modal -->
+            <div class="modal-body">
+              <p>Informe um nome a seu hábito: </p>
+
+              <form >
+                  <div class="form-group">
+                      <label >Hábito:</label>
+                      <input type="text" class="form-control" id="habito_adicionar">
+                  </div>
+              </form>
+
+            </div>
+
+            <!-- Rodapé do modal-->
+            <div class="modal-footer">
+              <button type="button" class="btn btn-danger" data-dismiss="modal">Fechar</button>
+              <button type="button" class="btn btn-primary" data-dismiss='modal' 
+              onclick="adicionar_habito(habito_adicionar.value)">Enviar</button>
+            </div>
+
+
+        </div>
+
+    </div>
+                    
+                    <!--<div class="habito r1 habito_ler">
+                        <div>
+                            <a href="#">
+                                <i class="bi bi-circle"></i>
+                            </a>
+                        </div>
+                        <h5>Ler</h5>
+                    </div>
+                    <div class="habito r1 habito_agua">
+                        <div>
+                            <a href="#">
+                                <i class="bi bi-circle"></i>
+                            </a>
+                        </div>
+                        <h5>Água</h5>
+                    </div>
+                    <div class="habito r1 habito_estudar">
+                        <div>
+                            <a href="#">
+                                <i class="bi bi-circle"></i>
+                            </a>
+                        </div>
+                        <h5>Estudar</h5>
+                    </div>
+                    <div class="habito r2 habito_exercicios">
+                        <div>
+                            <a href="#">
+                                <i class="bi bi-circle"></i>
+                            </a>
+                        </div>
+                        <h5>Exercitar</h5>
+                    </div>
+                    <div class="habito r2 habito_meditar">
+                        <div>
+                            <a href="#">
+                                <i class="bi bi-circle"></i>
+                            </a>
+                        </div>
+                        <h5>Meditar</h5>
+                    </div>
+                    <div class="habito r2 habito_adc">
+                        <div class="adc">
+                            <a href="#">
+                                <i class="bi bi-plus-circle"></i>
+                            </a>
+                        </div>
+                        <h5>Adc.</h5>
+                    </div>-->
+                <div id="modal-container">
+                    <div class="adc-tarefas">
+                        <div class="modal-header">
+                            <h2 id="tituloModal">Criar Tarefa</h2>
+                            <i id="xModal" class="bi bi-x"></i>
+                        </div>
+                        <div class="crud-tarefas">
+                            <label for="nome-tarefa">Nome Tarefa: *</label>
+                            <input id="nomeTarefa" class="input-modal" name="nome-tarefa" type="text" maxlength="72"
+                                placeholder="Digite algo... (Max 72 Caracteres)" autocomplete="off">
+                            <label for="data">Data e hora: *</label>
+                            <div class="input-data">
+                                <input id="dataTarefa" class="input-modal" name="data" type="datetime-local"
+                                    autocomplete="off">
+                                <i id="sinoModal" class="bi bi-bell-slash toggleBellOn"></i>
+                            </div>
+                            <label for="descricao">Descrição:</label>
+                            <textarea id="descricaoTarefa" class="descricao-tarefa" name="descricao" id="" cols="30"
+                                rows="10" maxlength="264" placeholder="Digite algo... (Max 264 Caracteres)"></textarea>
+                            <div id="divBtnModal" class="modal-btns">
+                                <span id="aviso"></span>
+                                <button id="salvarNovaTarefa">Salvar</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="containerModalAlarme">
+                    <div id="modalAlarme">
+                        <i id="ringingBell" class="bi bi-bell-fill"></i>
+                        <h1></h1>
+                        <h4></h4>
+                        <input id="btnModalAlarme" type="button" value="OK">
+                    </div>
+                </div>
+                <main class="conteudo_principal">
+                    <div class="overflow">
+                        <iframe src="../resources/silence.mp3" allow="autoplay" id="audio" style="display: none;"></iframe>
+                        <audio id="alarme">
+                            <source src="../resources/Pink Floyd - Time (Clocks).mp3" type="audio/mp3">
+                        </audio>
+                        <div id="containerTarefas">
+                        </div>
+                    </div>
+                </main>
+            </div>
+        </div>
+        <aside>
+            <div id="sidebar" class="sidebar_menu">
+                <div class="sidebar_menu_header">
+                    <div class="sidebar_menu_nome">
+                        <h4 id="nomeUsuario"></h4>
+                        <p id="emailUsuario"></p>
+                    </div>
+                    <img id="imgPerfil" src="../resources/default-profile-pic.png" alt="Imagem de Perfil">
+                </div>
+                <div class="sidebar_menu_troca">
+                    <div class="botao_menu">
+                        <i id="menuToggle" class="bi bi-list"></i>
+                    </div>
+                    <div class="botao_calendario">
+                        <i id="calToggle" class="bi bi-calendar2-week"></i>
+                    </div>
+                </div>
+                <div id="asideBody">
+                    <div id="menu" class="menu">
+                        <ul>
+                            <li>
+                                <div id="btnDashboard" class="pagina_ativa">
+                                    <i class="bi bi-columns-gap"></i>
+                                    <h4>Dashboard</h4>
+                                </div>
+                            </li>
+                            <li>
+                                <div id="btnGrafico">
+                                    <i class="bi bi-bar-chart"></i>
+                                    <h4>Estatíticas</h4>
+                                </div>
+                            </li>
+                            <li>
+                                <div id="btnConfig">
+                                    <i class="bi bi-gear"></i>
+                                    <h4>Configurações</h4>
+                                </div>
+                            </li>
+                            <li>
+                                <div id="btnSair">
+                                    <i class="bi bi-box-arrow-right"></i>
+                                    <h4>Sair</h4>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </aside>
+    </div>
+    <!-- Bootstrap -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script> 
+    <!-- JQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <!-- Script -->
+    <script src="scripts/dashboard.js"></script>
+    <script src="../aside/aside.js"></script>
+    <script src="scripts/tasks.js"></script>
+    <script src="scripts/habitos.js"></script>
+</body>
+
+</html>
