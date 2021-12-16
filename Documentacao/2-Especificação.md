@@ -41,10 +41,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |-------|-----------------------------------|-----------|
 |RF01   |Adicionar/Excluir/Modificar tarefas|Alta       |
 |RF02   |Notificar tarefas recorrentes      |Alta       |
-|RF03   |Mostrar todas as tarefas em uma data|Média     |
-|RF04   |Mostrar um gráfico de tarefas feitas|Alta      |
-|RF05   |Mostrar agenda de compromissos      |Alta      |
-|RF06   |Escrever em bloco de rascunhos      |Média     |
+|RF03   |Mostrar um gráfico de tarefas feitas|Alta      |
+|RF04   |Escrever em bloco de rascunhos      |Média     |
 
 ## Requisitos não funcionais
 
@@ -68,8 +66,8 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O sistema não deve ser complexo                       |
-|02| A aplicação não deve consumir mais de 1Gb de RAM      |
+|01| O sistema não deve ser complexo,pois no estágio atual do grupo ainda temos dificuldade com funções muito avançadas |
+|02| O projeto deve ser desenvolvido sem backend     |
 
 
 
