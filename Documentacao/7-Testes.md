@@ -8,10 +8,13 @@
 
 | Cenário              | Pré Condições |  Ações                                                 |  Resultados esperados  |
 |                      |               |                                                        |                        |
-| Cadastro de tarefa OK| Site funcional| 1. Clicar no botão de adicionar uma tarefa             |                        |
-|                      |               | 2. Informar nome, data e hora (esta não deve repetir)  |                        |
-|                      |               | 3. Confirmar a validação                               |                        |
-|                      |               | 4. Aguardar o resultado                                |                        |
+|Cadastro de tarefa OK |Site funcional |1. Clicar no botão de adicionar uma
+tarefa
+2. Informar nome, data e hora (esta não
+deve repetir)
+3. Confirmar a validação
+4. 4. Aguardar o resultado  |  Os dados da tarefa devem ser registrados no Local Storage
+Após a criação da tarefa, o sistema deverá imprimi-lá no campo de tarefas.|
 
 
 
