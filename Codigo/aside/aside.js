@@ -12,7 +12,7 @@ function carregaUsuario() { //pega o id do usuario logado que foi passado para a
     if(objDadosConfig) if (objDadosConfig.imgPerfil) document.getElementById('imgPerfil').src = objDadosConfig.imgPerfil;
     document.getElementById('btnDashboard').addEventListener('click', () => {
         if (window.location.pathname === 'PLF-ES-2021-2-TI1-7924100-ma-gestao-de-tempo/Codigo/dashboard/dashboard.html') return;
-        window.location.pathname = 'PLF-ES-2021-2-TI1-7924100-ma-gestao-de-tempo/Codigo/dashboard/dashboard.html');
+        window.location.pathname = 'PLF-ES-2021-2-TI1-7924100-ma-gestao-de-tempo/Codigo/dashboard/dashboard.html';
     });
     document.getElementById('btnGrafico').addEventListener('click', () => {
         if (window.location.pathname === 'PLF-ES-2021-2-TI1-7924100-ma-gestao-de-tempo/Codigo/estatisticas/estatisticas.html') return;
