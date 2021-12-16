@@ -1,3 +1,52 @@
+|ID     | Descrição                         |Prioridade |
+|-------|-----------------------------------|-----------|
+|RF01   |Adicionar/Excluir/Modificar tarefas|Alta       |
+|RF02   |Notificar tarefas recorrentes      |Alta       |
+|RF03   |Mostrar um gráfico de tarefas feitas|Alta      |
+|RF04   |Escrever em bloco de rascunhos      |Média     |
+
+
+| Cenário              | Pré Condições |  Ações                                                 |  Resultados esperados  |
+|                      |               |                                                        |                        |
+| Cadastro de tarefa OK| Site funcional| 1. Clicar no botão de adicionar uma tarefa             |                        |
+|                      |               | 2. Informar nome, data e hora (esta não deve repetir)  |                        |
+|                      |               | 3. Confirmar a validação                               |                        |
+|                      |               | 4. Aguardar o resultado                                |                        |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Avaliação da Aplicação
 
 <span style="color:red">Pré-requisitos: <a href="6-Implementação.md"> Projeto da Solução</a></span>
