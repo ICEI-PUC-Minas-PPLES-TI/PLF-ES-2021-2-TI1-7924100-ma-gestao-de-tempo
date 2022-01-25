@@ -1,0 +1,27 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Time Spent
+authors:
+  - family-names: Mendonça Silveira 
+    given-names: Isabela 
+  - family-names: Carneiro Magalhães 
+    given-names: Pablo Augusto 
+  - family-names: Criscollo Moreira 
+    given-names: Victor Hugo 
+  - family-names: dos Santos Teixeira
+    given-names: Vinicius Gabriel 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Dias Ferreira da Rocha
+    given-names: Roberto Felipe 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vieira Carneiro
+    given-names: Rommel 
+keywords:
+  - Gestão
+  - Tempo
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/PLF-ES-2021-2-TI1-7924100-ma-gestao-de-tempo
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2021-12-22
